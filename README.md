@@ -42,6 +42,11 @@ Integrated automated data collection (via web scraping) and a user-friendly inte
 This was my first major project, done before I entered university. As a passion project of mine, it helped me to grow as a programmer by implementing what I only learnt through textbooks before. 
 I believe every programmer should make something that they like at least once, and this project was my shot at it.
 
+# Reliable Computer Networking - Asteroids
+  Repo: [Link](https://github.com/JoelLeeJie/Asteroids_Multiplayer)  
+
+A multiplayer LAN game that uses reliable data transfer to host a server-client relationship for up to 4 computers.
+Functionality of TCP was implemented by us using UDP, which includes re-implementing TCP protocols.
 
 # Game Project (Team of 5, C++, OpenGL)    
   Showcase: [Link](https://youtu.be/ldsFohg6y7M)  
