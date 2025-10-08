@@ -8,12 +8,12 @@ A 3D Game Engine (in-progress) that is being built with scalability and maintain
 
 # Game and Engine Development (C++, OpenGL)
   Showcase: [Link](https://youtu.be/E8yu4OGotPs)  
+ 
+Led a team of 8 in the development of a custom game engine, implemented in C++ and OpenGL.  
 
-Led a team of 8 in the development of a custom game engine, implemented in C++ and OpenGL
-
-Developed a modular C++ game engine in an 8-member team with component-based architecture to enable flexible real-time behaviours, over 6 months
-Implemented scripting, reflection and a performant OpenGL rendering pipeline, integrated into the released game
-Continuously improved engine architecture through iterative refactoring using best practices and design patterns, leading to better readability and scalability in the growing codebase
+Developed a modular C++ game engine in an 8-member team with component-based architecture to enable flexible real-time behaviours, over 6 months.  
+Implemented scripting, reflection and a performant OpenGL rendering pipeline, integrated into the released game.  
+Continuously improved engine architecture through iterative refactoring using best practices and design patterns, leading to better readability and scalability in the growing codebase.  
 
 Done as part of my Y2 project, it helped me to better understand how systems should be designed for scalability + maintainability, and I often had to backtrack and reiterate on the engine architecture. Working in a medium-sized team allowed me to improve my teamwork and communication skills over this 6 month period, which came into play for my 13-man long-term engine project.
 
